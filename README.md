@@ -4,9 +4,9 @@ This flutter app is a simple, ready to use code snippet for a markdown editor fo
 
 ## Features
 
-> Works on Android, iOS and web.
-> Editable code.(Just copy paste the code into your app and you are ready to go)
-> Has a text editor and a priview window which is updated real time.
+* Works on Android, iOS and web.
+* Editable code.(Just copy paste the code into your app and you are ready to go)
+* Has a text editor and a priview window which is updated real time.
 <img src="https://github.com/navendu-pottekkat/markdown-editor/blob/master/assets/app.gif"  height="600" />
 
 ## Dependencies
