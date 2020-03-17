@@ -1,16 +1,20 @@
-# markdown_editor
+# Markdown Editor
 
-A new Flutter project.
+This flutter app is a simple, ready to use code snippet for a markdown editor for Android, iOS and web apps.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+> Works on Android, iOS and web.
+> Editable code.(Just copy paste the code into your app and you are ready to go)
+> Has a text editor and a priview window which is updated real time.
+<img src="https://github.com/navendu-pottekkat/markdown-editor/blob/master/assets/app.gif"  height="600" />
 
-A few resources to get you started if this is your first Flutter project:
+## Dependencies
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+**flutter_markdown 0.3.4** - https://pub.dev/packages/flutter_markdown#-readme-tab-
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Pull Requests
+
+I will be updating the project and adding new features like buttons to assist the Markdown text editor and other UI improvement features. If you would like to contribute, create a pull request and I will be responding within 12 hrs.
+
+### Leave a star ⭐ if you like this project! Happy coding!
